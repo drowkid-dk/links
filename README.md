@@ -5,8 +5,9 @@ Bonito, simple y llamativo
 ![Linkfree](https://raw.githubusercontent.com/harsh98trivedi/links/master/assets/images/links.jpg)
 
 ### Screenshot
-![Screenshot](https://i.imgur.com/9uJrd9k.png)
+![20230729_090822](https://github.com/drowkid-1/Linksfree/assets/135056994/317a14be-9e2c-4f43-8579-a8cb111e8e3e)
 
+[ver demo / vista previa](https://drowkid-1.github.io/Linksfree/)
 ### #Open-Source
 Este proyecto es de código abierto, por lo que puedes crear una versión de Linkfree personalizada a tu gusto.(:
 A continuación te enseño cómo hacerlo.
