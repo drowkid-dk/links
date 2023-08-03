@@ -29,14 +29,14 @@ links:
 
   - Name: Apps by DrowKid
     URL: 'https://drowapps.bswc.net'
-    Icon-Class: fas fa-envelope
+    Icon-Class: fa-brands fa-react
     Color: '#e17055'
     Text_Color: '#ffffff'
 
   - Name: Code-Blog
     URL: 'https://codeblog-lalo.vercel.app/'
     Color: '#006AFF'
-    Icon-Class: fab fa fa-circle
+    Icon-Class: fa-solid fa-code
 
   - Name: Telegram
     URL: http://telegram.me
@@ -53,7 +53,7 @@ links:
   - Name: UI - Componentes Web
     URL: 'https://drowkid-ui.vercel.app/'
     Color: '#FF55FFEA'
-    Icon-Class: fa-solid fa-rocket
+    Icon-Class: fa-solid fa-microchip
 
   - Name: DrowLinks Gen
     URL: 'https://drowkid.vercel.pub/links'
