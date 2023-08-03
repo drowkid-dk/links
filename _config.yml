@@ -9,7 +9,7 @@ Cover_Image: https://picsum.photos/1080?nocache=
 
 links:
 
-  - Name: Página oficial.
+  - Name: Mi sitio web.
     URL: 'https://lalo.my.to/'
     Icon-Class: fa-solid fa-globe
     Color: '#ffffff'
@@ -22,20 +22,19 @@ links:
     Icon-Class: fab fa-instagram
 
   - Name: GitHub
-    URL: http://github.com
+    URL: http://github.com/
     Username: drowkid-1
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
   - Name: Apps by DrowKid
-    URL: 'mailto:support@drowkid.bswc.net'
+    URL: 'https://drowapps.bswc.net'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-  - Name: Blog 
-    URL: https://m.me
-    Username: drowkid01
+  - Name: Code-Blog
+    URL: 'https://codeblog-lalo.vercel.app/'
     Color: '#006AFF'
     Icon-Class: fab fa fa-circle
 
@@ -48,9 +47,18 @@ links:
   - Name: Codepen
     URL: https://codepen.io
     Username: 'drowkid-1'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+    Color: '#FFFF4055'
+    Icon-Class: fa-brands fa-codepen
 
+  - Name: UI - Componentes Web
+    URL: 'https://drowkid-ui.vercel.app/'
+    Color: '#FF55FFEA'
+    Icon-Class: fa-solid fa-rocket
+
+  - Name: DrowLinks Gen
+    URL: 'https://drowkid.vercel.pub/links'
+    Color: '#FFFFFC95'
+    Icon-Class: fa-solid fa-code
 
 footer: 'Yes'
 
